@@ -1,7 +1,7 @@
 # System Report
-- Name: **Your Name**
-- Student Number: **Your Student Number**
-- Section Number: **Course Section Number**
+- Name: 'Daniel Maroy
+- Student Number: '041177351'
+- Section Number: 'CST8257 Spring 2025 Section 300'
 
 ## What problems did you have? How did you solve them?
 Add a response...
