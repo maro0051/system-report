@@ -1,7 +1,9 @@
 <?php
   // Create a name variable with your name
+  $name = 'Daniel Maroy'
    
   // Create a section variable with your course section
+    $section = 'CST8257 Fall 2025 Section 300'
 
   // Add your database username
   $username = 'root';
